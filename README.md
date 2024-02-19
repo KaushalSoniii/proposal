@@ -34,8 +34,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 6. Create a new Pull Request.
 
 ## Contributors
-
-- [Your Name](link to your GitHub profile)
+kaushal soni
 
 ## License
 
