@@ -20,7 +20,7 @@ Welcome to the Proposal Website project! This is a simple website designed to he
 2. Open the `index.html` file in your web browser.
 3. Follow the on-screen instructions to personalize the proposal message and design.
 4. Share the link to the proposal page with your girlfriend.
-5. Wait for her response!
+5. Wait for her response.!
 
 ## How to Contribute
 
