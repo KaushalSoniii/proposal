@@ -40,6 +40,6 @@ kaushal soni.
 
 This project is licensed under the [MIT License](LICENSE).
 
-## developed by
+# developed by
 
 kaushal soni. 
