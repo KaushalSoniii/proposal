@@ -42,4 +42,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 # developed by
 
-kaushal soni
+kaushal soni. 
